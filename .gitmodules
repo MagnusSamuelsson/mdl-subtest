@@ -1,0 +1,15 @@
+[submodule "theme/vericate"]
+	path = theme/vericate
+	url = git@github.com:VericateAB/theme_vericate.git
+[submodule "admin/tool/log/store/vericate"]
+	path = admin/tool/log/store/vericate
+	url = git@github.com:VericateAB/local_vericate.git
+[submodule "auth/userkey"]
+	path = auth/userkey
+	url = https://github.com/catalyst/moodle-auth_userkey
+[submodule "local/recompletion"]
+	path = local/recompletion
+	url = https://github.com/danmarsden/moodle-local_recompletion
+[submodule "admin/tool/filterlog"]
+	path = admin/tool/filterlog
+	url = https://github.com/MAD-santa/moodle-tool_filterlog
